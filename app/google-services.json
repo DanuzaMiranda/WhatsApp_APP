@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1077980872656",
+    "firebase_url": "https://whatsapp-bbc33.firebaseio.com",
+    "project_id": "whatsapp-bbc33",
+    "storage_bucket": "whatsapp-bbc33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077980872656:android:beb27f51f8ca5023",
+        "android_client_info": {
+          "package_name": "com.everis.whatsapp_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077980872656-44s0592mot0uj3dupso4o6v8kojskr8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everis.whatsapp_app",
+            "certificate_hash": "819a43b02505824b165ca96b738b49fbaef6bd78"
+          }
+        },
+        {
+          "client_id": "1077980872656-djv5rhpkqb9ghntkptghnha6psipvnpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACh5ySfdyMiPfURiEDTj4kKZ0b3cTNQM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077980872656-djv5rhpkqb9ghntkptghnha6psipvnpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
